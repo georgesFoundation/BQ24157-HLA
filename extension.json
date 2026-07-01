@@ -1,0 +1,13 @@
+{
+  "name": "BQ24157 Battery Charger",
+  "apiVersion": "1.0.0",
+  "author": "Georges Palauqui (georges@foundation.xyz)",
+  "version": "1.0.0",
+  "description": "Saleae Logic 2 HLA for TI BQ24157 I2C battery-charger traffic",
+  "extensions": {
+    "BQ24157 Battery Charger": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "BQ24157Analyzer.BQ24157Analyzer"
+    }
+  }
+}
