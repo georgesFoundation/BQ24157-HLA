@@ -17,3 +17,8 @@ The decoder recognizes:
 - `Status` charge state, boost/charge mode, and fault meanings
 - `Control` mode, Hi-Z, charge-disable, termination, weak-battery threshold, and input limit
 - Battery regulation voltage, revision, current-code, special charger voltage, CD/DPM/LOW_CHG, and safety-limit fields
+
+## License
+
+Licensed under either of the [Apache License, Version 2.0](LICENSE-APACHE) or the
+[MIT license](LICENSE-MIT), at your option.
